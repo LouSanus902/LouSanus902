@@ -1,7 +1,7 @@
-- 👋 Hi, you can call me Benjamin.
-- 👀 I’m interested in all things IT. 
+- 👋 Hi, you can call me Mike.
+- 👀 I’m interested in all things IT.
 -🌱 I’m currently learning the basics of administration, web design, networking and security.
-- 💞️ I’m looking to collaborate on building my website.
+- 💞️ I’m looking to collaborate on building my website and other projects.
 - 📫 Contact me at jack@uofc.xyz
 
 <!---

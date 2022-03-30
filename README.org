@@ -1,5 +1,5 @@
 #+TITLE: README
-- 👋 Hi, you can call me Mike.
+- 👋 Hi, you can call me Lou.
 - 👀 I’m interested in all things IT.
 -🌱 I’m currently learning the basics of administration, web design, networking and security.
 - 💞️ I’m looking to collaborate on building my website and other projects.
